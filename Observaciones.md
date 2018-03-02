@@ -14,5 +14,6 @@
 
 
 7. Las referencias hechas entre el intarfacebuilder y el viewcontroller estaban incorrectas, de modo que se hizo su respectivo flujo para un funcionamiento correcto
-..* Botón: 		InterfaceBuilder -> ViewController
-..* TextField: 	VierController -> InterfaceBuilder
+
+   - Botón: 		InterfaceBuilder -> ViewController
+   - TextField: 		VierController -> InterfaceBuilder
