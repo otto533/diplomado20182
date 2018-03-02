@@ -1,4 +1,4 @@
-#Modificaciones proyecto whatHappenedToMe
+# Modificaciones proyecto whatHappenedToMe
 
 1. Los objetos gráficos como lo es el botón y la etiqueta de texto se encontraban duplicados, cuyos duplicados les agregaban al nombre la palabra outlet
 
@@ -14,5 +14,5 @@
 
 
 7. Las referencias hechas entre el intarfacebuilder y el viewcontroller estaban incorrectas, de modo que se hizo su respectivo flujo para un funcionamiento correcto
-..*Botón: 		InterfaceBuilder -> ViewController
-..*TextField: 	VierController -> InterfaceBuilder
+..* Botón: 		InterfaceBuilder -> ViewController
+..* TextField: 	VierController -> InterfaceBuilder
